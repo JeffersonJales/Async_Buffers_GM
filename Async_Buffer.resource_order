@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Buffer Async","order":3,"path":"folders/Buffer Async.yy",},
+    {"name":"Classes","order":3,"path":"folders/Buffer Async/Internal/Classes.yy",},
+    {"name":"Teste","order":5,"path":"folders/Teste.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"__obj_async_buffer_handler","order":1,"path":"objects/__obj_async_buffer_handler/__obj_async_buffer_handler.yy",},
+    {"name":"buffer_save_async_compressed","order":4,"path":"scripts/buffer_save_async_compressed/buffer_save_async_compressed.yy",},
+    {"name":"BufferAsyncCallbackDataClass","order":3,"path":"scripts/BufferAsyncCallbackDataClass/BufferAsyncCallbackDataClass.yy",},
+    {"name":"buffer_save_async_ext","order":1,"path":"scripts/buffer_save_async_ext/buffer_save_async_ext.yy",},
+    {"name":"BufferAsyncDataSaveCompressClass","order":1,"path":"scripts/BufferAsyncDataSaveCompressClass/BufferAsyncDataSaveCompressClass.yy",},
+    {"name":"buffer_load_async_compressed","order":3,"path":"scripts/buffer_load_async_compressed/buffer_load_async_compressed.yy",},
+    {"name":"__async_system","order":2,"path":"scripts/__async_system/__async_system.yy",},
+    {"name":"BufferAsyncDataLoadCompressClass","order":2,"path":"scripts/BufferAsyncDataLoadCompressClass/BufferAsyncDataLoadCompressClass.yy",},
+    {"name":"buffer_load_async_ext","order":2,"path":"scripts/buffer_load_async_ext/buffer_load_async_ext.yy",},
+    {"name":"Room1","order":1,"path":"rooms/Room1/Room1.yy",},
+  ],
+}

@@ -1,0 +1,46 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "Async_Buffer",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Buffer Async","folderPath":"folders/Buffer Async.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Internal","folderPath":"folders/Buffer Async/Internal.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Classes","folderPath":"folders/Buffer Async/Internal/Classes.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Teste","folderPath":"folders/Teste.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.6.0.92",
+  },
+  "resources": [
+    {"id":{"name":"__obj_async_buffer_handler","path":"objects/__obj_async_buffer_handler/__obj_async_buffer_handler.yy",},},
+    {"id":{"name":"obj_async_test","path":"objects/obj_async_test/obj_async_test.yy",},},
+    {"id":{"name":"buffer_save_async_compressed","path":"scripts/buffer_save_async_compressed/buffer_save_async_compressed.yy",},},
+    {"id":{"name":"__scr_async_buffer_event","path":"scripts/__scr_async_buffer_event/__scr_async_buffer_event.yy",},},
+    {"id":{"name":"BufferAsyncCallbackDataClass","path":"scripts/BufferAsyncCallbackDataClass/BufferAsyncCallbackDataClass.yy",},},
+    {"id":{"name":"buffer_save_async_ext","path":"scripts/buffer_save_async_ext/buffer_save_async_ext.yy",},},
+    {"id":{"name":"BufferAsyncDataClass","path":"scripts/BufferAsyncDataClass/BufferAsyncDataClass.yy",},},
+    {"id":{"name":"BufferAsyncDataSaveCompressClass","path":"scripts/BufferAsyncDataSaveCompressClass/BufferAsyncDataSaveCompressClass.yy",},},
+    {"id":{"name":"buffer_load_async_compressed","path":"scripts/buffer_load_async_compressed/buffer_load_async_compressed.yy",},},
+    {"id":{"name":"__async_system","path":"scripts/__async_system/__async_system.yy",},},
+    {"id":{"name":"BufferAsyncDataLoadCompressClass","path":"scripts/BufferAsyncDataLoadCompressClass/BufferAsyncDataLoadCompressClass.yy",},},
+    {"id":{"name":"buffer_load_async_ext","path":"scripts/buffer_load_async_ext/buffer_load_async_ext.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
